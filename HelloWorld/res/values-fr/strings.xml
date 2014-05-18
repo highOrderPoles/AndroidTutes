@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bonjour Monde</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="android">Android</string>
+    <string name="android_summary">Cunt faggot fuck ass bitch licking dick sucking</string>
+    
+    <string name="apples">Pommes</string>
+	<string name="apples_summary" formatted="false">Le cou de %d pommes est %.2f.</string>
+    
+</resources>
